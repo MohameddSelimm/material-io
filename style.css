@@ -1,0 +1,237 @@
+body
+{
+    font-family:sans-serif;
+    box-sizing: border-box;
+}
+.bg-light
+{
+    background-color: #212121 !important;
+    
+    
+    
+}
+.navbar .navbar-expand-lg .navbar-light .bg-light
+{
+    color: #FFF;
+}
+.navbar-light .navbar-nav .nav-link  
+{
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 400;
+    align-items: center;
+    padding-left:60px ;
+    
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: #3d3d3d;
+}
+.icon
+{
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+.icon:hover
+{
+    
+    color: #3d3d3d;
+}
+.parent
+{
+    width: 100%;
+    height: 70vh;
+    background-color: #212121;
+   overflow: hidden;
+
+}
+.child
+{
+    
+    color: #fff;
+    width:35%;
+    
+
+}
+.child span a
+{
+    text-decoration: none;
+    color: white;
+    margin: 0px 5px;
+    border: 2px solid #3d3d3d; ;
+    border-radius: 1px;
+    padding: 5px 10px;
+    background-color: #212121;
+}
+.child span a:hover
+{
+    color: #3d3d3d;
+}
+.child h1
+{
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-decoration: inherit;
+    text-transform: inherit;
+    color: #fafafa;
+    line-height: inherit;
+}
+.child p 
+{
+    font-size: 1rem;
+    line-height: 1.375rem;
+    
+    letter-spacing: 0.0071428571em;
+    text-decoration: inherit;
+    text-transform: inherit;
+    color: #bdbdbd;
+    font-weight: 400;
+}
+
+.search
+{
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    z-index: 50000;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    display: none;
+}
+.input
+{
+    width: 98%;
+    height: 50%;
+    border-radius: 4px;
+   
+}
+.deisgn-1
+{
+    margin-top: 50px;
+}
+.deisgn-1 h2
+{
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #212121;
+    text-decoration: inherit;
+    text-transform: inherit;
+}
+.deisgn-1 p
+{
+    line-height: 1.5;
+    font-weight: 400;
+    font-size: 1rem;
+    text-decoration: inherit;
+    text-transform: inherit;
+    color: #616161;
+    letter-spacing: normal;
+}
+
+.once:hover
+{
+    border: solid 2px rgb(202, 200, 200);
+    
+}
+.once h3
+{
+    color: #616161;
+    font-size: 0.875rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 1.25rem;
+    
+}
+.once h4
+{
+    font-family: Roboto, sans-serif;
+    font-size: 1.25rem;
+    
+    font-weight: 400;
+    
+    text-transform: inherit;
+    color: #212121;
+    line-height: 1.5rem; 
+}
+.once p
+{
+    color: #616161;
+    font-size: 1rem;
+    font-family: Roboto,sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    text-decoration: inherit;
+    text-transform: inherit;
+}
+.news
+{
+    margin: 100px;
+
+}
+.news h1
+{
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #212121;
+    text-decoration: inherit;
+    text-transform: inherit;
+    box-sizing: border-box;
+}
+.news p
+{
+    color: #616161;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400; 
+    text-decoration: inherit;
+    text-transform: inherit;  
+
+}
+.one h4
+{
+    color: #616161;
+    font-size: 0.875rem;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 1.25rem;
+    
+}
+.one h3
+{
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-transform: inherit;
+    color: #212121;
+}
+.one h3:hover
+{
+    color:rgb(138, 138, 138);
+}
+.one p
+{
+    line-height: 1.5;
+    font-weight: 400;
+    text-decoration: inherit;
+    text-transform: inherit;
+    font-size: 1rem;
+    color: #616161;
+}
+.button
+{
+    margin: auto;
+}
+.learnmore
+{
+    background-color: #f1f3f4;
+}
